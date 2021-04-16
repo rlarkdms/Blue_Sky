@@ -25,7 +25,7 @@ import java.util.Map;
         transactionManagerRef = "mariaDB_transactionManager",
         entityManagerFactoryRef = "mariaDB_entityManagerFactory"
 )
-
+//여기까지
 public class DBConfig {
     @Primary
     @Bean(name = "maria_dataSource")
