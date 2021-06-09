@@ -21,16 +21,18 @@
 <br>
 ### 결과물
 ![image](https://user-images.githubusercontent.com/31676033/121386706-298ef480-c985-11eb-895e-7d879342a87f.png)
-리사이클 스캐너
+<b>리사이클 스캐너</b>
 <br>
 ![image](https://user-images.githubusercontent.com/31676033/121387026-4e836780-c985-11eb-86fa-2d439834b9f8.png)
-분리배출 정보 제공
+<b>분리배출 정보 제공</b>
 <br>
 ![image](https://user-images.githubusercontent.com/31676033/121387175-71ae1700-c985-11eb-8a93-046df33a1360.png)
-내 주변 쓰레기통 찾기
+<b>내 주변 쓰레기통 찾기</b>
 <br>
 ### 시연 동영상
 + 유튜브 링크: <https://youtu.be/G2OcTIVcfSI>
 <br>
+
 ### 결과
-끝장개발대회 우수상
+
+  <b>끝장개발대회 우수상</b>
