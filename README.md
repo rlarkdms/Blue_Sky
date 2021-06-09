@@ -2,8 +2,6 @@
 ### 제 5회 끝장개발대회 리사이클 스캐너 서버 결과물입니다.
 
 
-### 끝장 개발 대회 출품작
-
 ### 개발기간
 <b>2021.05.13~2021.06.03</b>
 
@@ -17,9 +15,9 @@
 
 ### 개발 스택
 
-Front-end : React native/JavaScript<br>
-Back-end : Spring Boot/Java <br>
-DB : Maria DB
+<b>Front-end : React native/JavaScript</b><br>
+  <b>Back-end : Spring Boot/Java</b> <br>
+  <b>DB : Maria DB</b>
 <br>
 ### 결과물
 ![image](https://user-images.githubusercontent.com/31676033/121386706-298ef480-c985-11eb-895e-7d879342a87f.png)
