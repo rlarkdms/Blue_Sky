@@ -11,15 +11,13 @@ import java.util.Date;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name = "member")
+@Table(name = "barcode")
 public class Member {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name="id")
-    private long id;
+    @Column(name="barcode")
+    private String barcode;
     private String name;
-    private int age;
-    private String address;
-    private Date createdAt;
-
+    private String detail;
+    private String kind;
 }
