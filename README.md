@@ -5,7 +5,7 @@
 ### 끝장 개발 대회 출품작
 
 ### 개발기간
-2021.05.13~2021.06.03
+<b>2021.05.13~2021.06.03</b>
 
 ### 팀원
 
@@ -20,7 +20,7 @@
 Front-end : React native/JavaScript<br>
 Back-end : Spring Boot/Java <br>
 DB : Maria DB
-
+<br>
 ### 결과물
 ![image](https://user-images.githubusercontent.com/31676033/121386706-298ef480-c985-11eb-895e-7d879342a87f.png)
 리사이클 스캐너
@@ -30,9 +30,9 @@ DB : Maria DB
 <br>
 ![image](https://user-images.githubusercontent.com/31676033/121387175-71ae1700-c985-11eb-8a93-046df33a1360.png)
 내 주변 쓰레기통 찾기
-
+<br>
 ### 시연 동영상
-+유튜브 링크: <https://youtu.be/G2OcTIVcfSI>
-
++ 유튜브 링크: <https://youtu.be/G2OcTIVcfSI>
+<br>
 ### 결과
 끝장개발대회 우수상
