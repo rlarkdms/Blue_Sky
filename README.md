@@ -19,6 +19,17 @@
   <b>Back-end : Spring Boot/Java</b> <br>
   <b>DB : Maria DB</b>
 <br>
+
+### ERD
+![enddevelopcontest](https://user-images.githubusercontent.com/31676033/124378470-6cc25600-dcec-11eb-806c-d05020ea29bc.png)
+
+참조한 데이터
++ 서울특별시 성동구_가로휴지통현황 https://www.data.go.kr/data/15038230/fileData.do
++ 직접 설명한 더미 데이터
+
+주소 변환
++ GeoCoding/GCP 이용하여 위도 경도 변환
+
 ### 결과물
 ![image](https://user-images.githubusercontent.com/31676033/121386706-298ef480-c985-11eb-895e-7d879342a87f.png)
 <b>리사이클 스캐너</b>
