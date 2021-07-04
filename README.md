@@ -21,13 +21,14 @@
 <br>
 
 ### ERD
++원래는 nosql로 진행하려 했으나 사용법이 미숙해 MariaDB를 이용함.
 ![enddevelopcontest](https://user-images.githubusercontent.com/31676033/124378470-6cc25600-dcec-11eb-806c-d05020ea29bc.png)
 
-참조한 데이터
+<b>참조한 데이터</b>
 + 서울특별시 성동구_가로휴지통현황 https://www.data.go.kr/data/15038230/fileData.do
 + 직접 설명한 더미 데이터
 
-주소 변환
+<b>주소 변환</b>
 + GeoCoding/GCP 이용하여 위도 경도 변환
 
 ### 결과물
