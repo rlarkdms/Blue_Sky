@@ -21,8 +21,8 @@
 <br>
 
 ### ERD
-+원래는 nosql로 진행하려 했으나 사용법이 미숙해 MariaDB를 이용함.
-![enddevelopcontest](https://user-images.githubusercontent.com/31676033/124378470-6cc25600-dcec-11eb-806c-d05020ea29bc.png)
++ nosql로 진행하려 했으나 사용법이 미숙해 MariaDB를 이용함.<br>
+![aaaaa](https://user-images.githubusercontent.com/31676033/124381172-02b1ad00-dcfc-11eb-87c1-c8f26d368fcf.png)
 
 <b>참조한 데이터</b>
 + 서울특별시 성동구_가로휴지통현황 https://www.data.go.kr/data/15038230/fileData.do
